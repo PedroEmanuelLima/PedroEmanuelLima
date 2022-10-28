@@ -44,17 +44,14 @@ Here are some ideas to get you started:
   </a>  
   <a href="https://https://firebase.google.com/" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  </a> 
+  <a href="https://www.mongodb.com/" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  </a> 
+  <a href="https://pt-br.reactjs.org/" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   </a>
-    
-   <a href="https://www.mongodb.com/" target="blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-   </a>
-     
-   <a href="https://pt-br.reactjs.org/" target="blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-   </a>
-     
-    <a href="[https://www.w3schools.com/css/](https://www.python.org/)" target="blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-    </a>
+  <a href="[https://www.w3schools.com/css/](https://www.python.org/)" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  </a>
 </p>
