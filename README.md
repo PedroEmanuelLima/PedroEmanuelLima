@@ -1,7 +1,5 @@
 # Olá, me chamo Pedro Emanuel ! ## Bem vindo ao meu perfil GitHub 👋
 
-
-Here are some ideas to get you started:
 - 👨‍🎓 Atualmente estou cursando Sistemas de Informação no IFCE - Crato.
 - 🔭 Atualmente tenho como principal eperiência a análise e desenvolvimento de uma base de dados de um comércio, desenvolvimento frontend de uma aplicação para o capus da instituição que estudo e desenvolvimento de um app mobile para acompanhamento e modificação de dados de uma platação. Além de outras ferramentas com intuito de adiquirir e desenvolver habilidades.
 - 🌱 Atualmente estou focado no apredizado de desenvolvimento web full stack com NodeJS. Frameworks em destaque: ReactJS, React Native, Express...
