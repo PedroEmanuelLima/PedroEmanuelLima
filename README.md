@@ -23,7 +23,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/pt-br/" target="blank">
-    <img style="background-color:#42fe8c; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+    <img style="background-color:#42fe8c;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/html/default.asp" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
