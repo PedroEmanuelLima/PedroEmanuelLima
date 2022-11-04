@@ -18,7 +18,7 @@
   <a href="https://www.w3schools.com/git/" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="blank">
+  <a href="https://www.w3schools.com/css/" target="blank" style="bacground-color: #fff">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/pt-br/" target="blank">
