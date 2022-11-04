@@ -21,7 +21,7 @@
   <a href="https://www.w3schools.com/css/" target="blank" style="bacground-color: #fff">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com/pt-br/" target="blank">
+  <a style="bacground-color: #42fe8c" href="https://expressjs.com/pt-br/" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/html/default.asp" target="blank">
