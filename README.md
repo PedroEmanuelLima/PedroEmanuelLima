@@ -1,10 +1,9 @@
 # Olá, me chamo Pedro Emanuel ! ## Bem vindo ao meu perfil GitHub 👋
 
-- 👨‍🎓 Atualmente estou cursando Sistemas de Informação no IFCE - Crato.
-- 🔭 Atualmente tenho como principal eperiência a análise e desenvolvimento de uma base de dados de um comércio, desenvolvimento frontend de uma aplicação para o capus da instituição que estudo e desenvolvimento de um app mobile para acompanhamento e modificação de dados de uma platação. Além de outras ferramentas com intuito de adiquirir e desenvolver habilidades.
-- 🌱 Atualmente estou focado no apredizado de desenvolvimento web full stack com NodeJS. Frameworks em destaque: ReactJS, React Native, Express...
-- 👯 Estou procurando colaborar juntamente com uma equipe que possa me integrar como parte fundamental para a colaboração, desenvolvimento e experiência na empresa, exercendo minhas habilidades técnicas e comportamentais buscando bons resultados sempre com qualidade.
-- 💬 Pergunte-me sobre desenvolviemnto mobile, web, banco de dados SQl e NoSQl.
+- 👨‍🎓 In progress: Sistemas de Informação no IFCE - Crato.
+- 🔭 Experiente: Análise e desenvolvimento de base de dados, desenvolvimento frontend deaplicação mobile. Além de outros projetos acadêmicos.
+- 🌱 Focus: Desenvolvimento web full stack com NodeJS. Frameworks em destaque: ReactJS, React Native, Express...
+- 👯 Interest: Colaborar juntamente com uma equipe, desenvolvimento e experiência de mercado.
 - 📫 Como entrar em contato comigo: **pa69731@gmail.com**
 
 ## Conecte-se comigo:
