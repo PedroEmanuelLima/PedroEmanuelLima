@@ -48,7 +48,7 @@
   </a> 
   <a href="https://pt-br.reactjs.org/" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  </a>
+    </a>
   <a href="[https://www.w3schools.com/css/](https://www.python.org/)" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   </a>
