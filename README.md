@@ -1,4 +1,4 @@
-# Olá, me chamo Pedro Emanuel !
+# Olá, me chamo Pedro Emanuel!
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 👨‍🎓 In progress: Sistemas de Informação no IFCE - Crato.
