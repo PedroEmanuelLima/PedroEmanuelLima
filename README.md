@@ -16,7 +16,7 @@ and skills, especially in the areas of technology, programation and database ana
   
 ## My Stats
 
-![Langs](https://raw.githubusercontent.com/PedroEmanuelLima/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroEmanuelLima)](https://github.com/PedroEmanuelLima/github-readme-stats)
 
 <br>  
 
