@@ -12,8 +12,23 @@ and skills, especially in the areas of technology, programation and database ana
 - 🏢 I have contributions in corporate repositories (Private).
 - 	🔥 I have experience in several technologies, and always willing to learn more.
 
+<div align="center">
+  
+## My Stats
 
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEmanuelLima&layout=compact&theme=tokyonight&hide_border=true&card_width=445)
 
+<br>  
+
+![Pedro Almeida github stats](https://github-readme-stats.vercel.app/api?username=PedroEmanuelLima&hide=prs,issues&count_private=true&show_icons=true&theme=tokyonight&icon_color=00bfff&hide_border=true)
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroEmanuelLima&theme=tokyonight&hide_border=true"/>
+
+<br>  
+  
+</div>
 
 ## 💻 Tech Stack (Skills) 
 
