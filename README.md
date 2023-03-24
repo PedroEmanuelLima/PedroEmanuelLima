@@ -8,7 +8,7 @@ I am a professional who constantly seeks to improve my knowledge
 and skills, especially in the areas of technology, programation and database analysis. I'm an developer and college student.
 
 - 👨‍🎓 I am currently graduating in Bachelor of Information Systems from IFCE-Campus Crato.
-- ✅ ![I have several certified courses in the area of ​​technology](bit.ly/408lsFL).
+- ✅ [I have several certified courses in the area of ​​technology](bit.ly/408lsFL).
 - 🏢 I have contributions in corporate repositories (Private).
 - 	🔥 I have experience in several technologies, and always willing to learn more.
 
