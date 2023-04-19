@@ -16,9 +16,7 @@ and skills, especially in the areas of technology, programation and database ana
   
 ## My Stats
 
-![Pedro Almeida github stats](https://github-readme-stats.vercel.app/api?username=PedroEmanuelLima&hide=prs,issues&count_private=true&show_icons=true&theme=tokyonight&icon_color=00bfff&hide_border=true)
-
-<br>
+ <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEmanuelLima&layout=compact&langs_count=8&theme=tokyonight"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroEmanuelLima&theme=tokyonight&hide_border=true"/>
 
