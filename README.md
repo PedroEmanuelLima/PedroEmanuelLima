@@ -16,7 +16,7 @@ and skills, especially in the areas of technology, programation and database ana
   
 ## My Stats
 
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEmanuelLima&hide_progress=true&layout=compact&theme=tokyonight"/>
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEmanuelLima&hide_progress=true&layout=compact&langs_count=8&theme=tokyonight"/>
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroEmanuelLima&theme=tokyonight&hide_border=true"/>
 
